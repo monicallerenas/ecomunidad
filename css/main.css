@@ -1,0 +1,177 @@
+*{
+	font-family: "opensans-light";
+}
+ul{
+	list-style-type: none;
+}
+li{
+	display: inline-block;
+	color:#819FF7;
+	margin:80px 15px;
+	font-size: 16px;
+}
+hr{
+	width: 2px;
+	height: 10px;
+	background:#819FF7;
+	display: inline-block;
+}
+.foto{
+	width: 100%;
+	height: 400px;
+}
+.parrafo{
+	background: #CED8F6;
+	text-align: center;
+	padding: 50px;
+	color: #819FF7;
+}
+.vision{
+	width: 400px;
+	height: 500px;
+	border:white 1px solid;
+	background: white;
+	margin:50px 50px;
+	padding: 100px 0px;
+	color: #819FF7;
+}
+.mision{
+	padding: 20px 120px;
+}
+.vision{
+	text-align: center;
+}
+.compartido{
+	width: 50%;
+	float:left;
+}
+.green{
+	height: 522px;
+}
+.metodologia{
+	float: right;
+	margin: -350px -200px;
+	color: white;
+	text-align: center;
+	padding: -10px;
+}
+.metodo{
+	margin:15px;
+}
+h3{
+	margin:10px;
+}
+.escrito{
+	color:white;
+}
+.servicios{
+	text-align: center;
+	padding: 40px;
+	color:#819FF7;
+}
+p{
+	text-align: center;
+	color:#819FF7;
+}
+.icon{
+	border:white 1px solid;
+	background: white;
+	color: #819FF7;
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+.verde{
+	background: green;
+	width: 100%;
+	height: 750px;
+}
+h2{
+	padding: 30px 50px;
+	font-size: 28px;
+	color: white;
+}
+.proyecto{
+	width: 100%;
+}
+.proyecto1{
+	color: white;
+	padding: 70px 0px 0px;
+	text-align: center;
+}
+.equipo{
+	color:green;
+}
+.equipos{
+	padding: 20px;
+	border:white 1px solid;
+}
+.equipo2{
+	border-radius: 100%;
+	padding: 10px 70px;
+}
+.nombre2{
+	text-align: center;
+	color:#08088A;
+	padding: 10px;
+}
+.puesto{
+	text-align: center;
+	color:#08088A;
+}
+.redes{
+	width: 20%;
+	padding: 10px 0px 0px 20px;
+	margin:20px;
+	color: grey;
+}
+.fondo2{
+	width: 100%;
+	height: 400px;
+	background-image:url("../img/fondo2.jpg");
+}
+.img{
+	width: 100%;
+}
+.blog{
+	color:#424242;
+}
+.slider{
+	margin: 100px 200px;
+	position: absolute;
+	display: inline-block;
+}
+.slider1{
+	margin: 100px 1300px;
+	position: absolute;
+	display: inline-block;
+}
+.titulo1{
+	color:#6E6E6E;
+	font-size: 16px;
+}
+.fecha{
+	color:#424242;
+	font-size: 18px;
+}
+.titulo{
+	color:#424242;
+	font-size: 20px;
+}
+.fondogris{
+	width: 100%;
+	height: 400px;
+	background:grey;
+}
+.cubo{
+	width: 200px;
+	height: 200px;
+	border: white 2px solid;
+	margin:100px 0px;
+	color:#424242;
+	font-size: 18px;
+}
+.red{
+	width: 30%;
+	margin:100px;
+}
